@@ -11,14 +11,20 @@ If you use this repository or its contents in your research, please cite the fol
 ---
 
 ## Models
-The trained model weights are also in the repository, under /model_weights.
+The trained model weights are available for download.
+
+**[Download model weights](10.6084/m9.figshare.29847929)**
+
+## Data
+The synthetic data labels and statistical model for data augmentation (for Lung CT) are available for download.
+In addition, to help users test the pipeline, we provide **toy data** (only 5/2 train/val cases).
+
+**[Download data](10.6084/m9.figshare.29847938)**
 
 ---
 ## Code
 
-We used **PyTorch Lightning** for training and inference.
-
-To help users test the pipeline, we provide **toy data** (only 2 cases).  
+We used **PyTorch Lightning** for training and inference. .  
 The code is structured into two main stages:
 
 ```bash
