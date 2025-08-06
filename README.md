@@ -14,7 +14,7 @@ If you use this repository or its contents in your research, please cite the fol
 The trained model weights are available for download.
 
 **[Download model weights](https://doi.org/10.6084/m9.figshare.29847929)**
-https://figshare.com/articles/dataset/model_weights_zip/29847929
+
 ## Data
 The synthetic data labels and statistical model for data augmentation (for Lung CT) are available for download.
 In addition, to help users test the pipeline, we provide **toy data** (only 5/2 train/val cases).
